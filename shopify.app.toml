@@ -2,7 +2,7 @@
 
 name = "QRCode Generator"
 client_id = "e1d10b1346ff137709bd2c42e442060e"
-application_url = "https://sorted-iraqi-provincial-accommodations.trycloudflare.com"
+application_url = "https://fort-initiated-resort-visiting.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://sorted-iraqi-provincial-accommodations.trycloudflare.com/auth/callback",
-  "https://sorted-iraqi-provincial-accommodations.trycloudflare.com/auth/shopify/callback",
-  "https://sorted-iraqi-provincial-accommodations.trycloudflare.com/api/auth/callback"
+  "https://fort-initiated-resort-visiting.trycloudflare.com/auth/callback",
+  "https://fort-initiated-resort-visiting.trycloudflare.com/auth/shopify/callback",
+  "https://fort-initiated-resort-visiting.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
