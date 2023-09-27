@@ -5,6 +5,10 @@ The Shopify QR Code Generator App is a powerful tool that allows Shopify store o
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using the [Remix](https://remix.run) framework.
 
 <!-- TODO: Uncomment this after we've started using the template in the CLI -->
+<img width="1439" alt="Screenshot 2023-09-27 at 01 38 35" src="https://github.com/richardwaters9049/QRGenerator/assets/119029825/322873c6-59cd-4a53-b66a-752b8237bc42">
+
+<img width="1440" alt="Screenshot 2023-09-27 at 01 38 20" src="https://github.com/richardwaters9049/QRGenerator/assets/119029825/780ac7cc-0d32-4598-b3c7-8db6e86dfb54">
+
 <!-- Rather than cloning this repo, you can use your preferred package manager and the Shopify CLI with [these steps](#installing-the-template). -->
 
 ## Quick Start
